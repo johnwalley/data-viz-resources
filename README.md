@@ -17,6 +17,60 @@
 - http://mappinglondon.co.uk/
 - https://www.informationisbeautifulawards.com/
 - https://www.tensorflow.org/get_started/summaries_and_tensorboard
+- http://www.acrodatics.com/
+- https://becomingadatascientist.wordpress.com/tag/dc-js/
+- http://distill.pub/2017/momentum/
+- http://ec2.buser.net/bnforecast/meteogramv2/#!/app/dashboard?start=KBTP&product=MAV
+- http://setosa.io/ev/
+- http://p.migdal.pl/2016/02/09/d3js-icm-kfnrd.html
+- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+- http://students.brown.edu/seeing-theory/?vt=4
+- http://www.tylervigen.com/spurious-correlations
+- https://medium.- com/@ahoiin/crafting-a-custom-mobile-friendly-data-visualization-cb91a3024064#.ci1ni2kgo
+- http://callingbullshit.org/syllabus.html#Introduction
+- http://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html
+- http://dvblogger.com/
+- http://toddwschneider.- com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/
+- https://www.youtube.com/watch?v=PM79Epw_cp8
+- http://vudlab.com/#/
+- http://www.visualcinnamon.com/2016/06/abrupt-color-gradients.html
+- https://news.ycombinator.com/item?id=12488244
+- http://flowingdata.com/2008/12/19/5-best-data-visualization-projects-of-the-year/
+- http://blogof.francescomugnai.com/2009/04/50-great-examples-of-infographics/
+- http://www.blog.spoongraphics.co.- uk/articles/50-illustrator-tutorials-every-designer-should-see
+- http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002w4&topic_id=1
+- http://www.scribd.- com/doc/30548590/Cognitive-Biases-A-Visual-Study-Guide-by-the-Royal-Society-of-Account-Plan- ning
+- http://www-personal.umich.edu/~mejn/election/2008/
+- http://www.edge.org/3rd_culture/taleb08/taleb08_index.html
+- http://www.ted.com/index.php/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html
+- https://www.gov.uk/government/statistical-data-sets
+- http://vimeo.com/10218235
+- http://www.aaronkoblin.com/work/flightpatterns/index.html
+- http://mondeguinho.com/master/
+- http://www.visualcinnamon.com/portfolio/babynames
+- https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html
+- http://www.informationisbeautifulawards.com/
+- https://medium.- com/visualizing-the-field/there-be-dragons-dataviz-in-the-industry-652e712394a0
+- https://github.com/martinjc/UK-GeoJSON
+- http://www.vizwiz.com/2017/04/eis.html
+- http://johnguerra.co/viz/influentials/openvisconf/
+- https://www.predix-ui.com/#/home/
+- https://vida.io/
+- https://iros.github.io/d3-v4-whats-new/#30
+- https://github.com/robinhowlett/chart-parser
+- https://github.com/gka/d3-jetpack
+- https://www.safaribooksonline.- com/blog/2014/02/17/building-responsible-visualizations-d3-js/
+- http://faculty.washington.edu/jhullman/
+- http://www.brightpointinc.com/d3-mobile-web-application/
+- https://pudding.cool/
+- http://www.bbc.co.uk/news/education-40511184
+- https://bl.ocks.org/mbostock/c957dc9c1f8a0bae58d5
+- https://bl.ocks.org/mbostock/4b66c0d9be9a0d56484e
+- https://www.youtube.com/watch?v=s7MTM4BKZ_E
+- https://www.youtube.com/watch?v=PM79Epw_cp8
+- http://vudlab.com/#/
+- http://www.visualcinnamon.com/2016/06/abrupt-color-gradients.html
+- https://github.com/wbkd/awesome-interactive-journalism
 
 ## Websites
 
