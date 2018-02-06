@@ -1,5 +1,9 @@
 # Data visualization resources
 
+## Other lists of resources
+
+- [Awesome dataviz](https://github.com/fasouto/awesome-dataviz)
+
 - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/) - The Data Visualisation Catalogue, helping you find the right data visualization method for your data
 - [Complex Diagrams](http://complexdiagrams.com/properties) - Properties and Best Uses of Visual Encodings
 - [Visualization Lab](http://vis.berkeley.edu/papers/animated_transitions/) - Animated Transitions in Statistical Data Graphics
@@ -71,6 +75,14 @@
 - http://vudlab.com/#/
 - http://www.visualcinnamon.com/2016/06/abrupt-color-gradients.html
 - https://github.com/wbkd/awesome-interactive-journalism
+- [From bar charts to scatter plot](https://gf.neocities.org/fbts/fbts.html)
+- [Cambridgeshire Insight Open Data](http://opendata.cambridgeshireinsight.org.uk/)
+- [Plotly MATLAB Dashboards](https://plot.ly/matlab/dashboard/)
+- [Leaflet: Make a web map! With Leaflet 1.0.3](https://maptimeboston.github.io/leaflet-intro/)
+- [Infogram: Create Infographics, Reports and Maps](https://infogram.com/)
+- [deck.gl](https://uber.github.io/deck.gl/#/documentation/overview/introduction)
+- [Digging into D3 Internals to Eliminate Jank over Large Data Sets — The MongoDB Engineering Journal](https://engineering.mongodb.com/post/digging-into-d3-internals-to-eliminate-jank-over-large-data-sets)
+- [A better way to structure D3 code (updated with ES6 and D3 v4)](http://ejb.github.io/2017/08/09/a-better-way-to-structure-d3-code-es6-version.html)
 
 ## Websites
 
