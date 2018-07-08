@@ -105,7 +105,20 @@
 - https://github.com/sghall/resonance
 - https://medium.freecodecamp.org/building-teslas-battery-range-calculator-with-react-part-3-css-animation-797476dc1b37
 
+## Data sets
+
+- https://data.police.uk/data/
+- https://data.london.gov.uk/
+- http://users.stat.ufl.edu/~winner/datasets.html
+
+## Tools
+
+- http://visidata.org/
+
 ## Twitter
+
+- https://twitter.com/@tibbuttj
+
 
 
 
