@@ -89,10 +89,17 @@
 ](https://kantord.github.io/just-dashboard/)
 - [Constraint-Based Layout in the Browser](https://ialab.it.monash.edu/webcola/)
 - [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
-- [Animal Heartbeats](http://www.everysecond.io/animal-heartbeats)
 - [Tube Heartbeat](http://tubeheartbeat.com/london/)
 - [Data Visualization @ Airbnb -- React.js Meetup April 12, 2018](https://pasteapp.com/p/MszqF8XXBP9)
 - [Powerful command line data transformations](https://www.getdbt.com/)
+- [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
+- [Dashboard Anything](http://vudash.com/#/)
+
+## Visualizations
+
+- [NBA Users by Team and Home State](http://r-nba-location.surge.sh/)
+- [Animal Heartbeats](http://www.everysecond.io/animal-heartbeats)
+- [The World’s Safest Bonds Are Actually Wild Risks](http://graphics.wsj.com/government-bond-duration-calculator/)
 
 ## Websites
 
