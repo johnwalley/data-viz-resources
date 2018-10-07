@@ -83,6 +83,16 @@
 - [deck.gl](https://uber.github.io/deck.gl/#/documentation/overview/introduction)
 - [Digging into D3 Internals to Eliminate Jank over Large Data Sets — The MongoDB Engineering Journal](https://engineering.mongodb.com/post/digging-into-d3-internals-to-eliminate-jank-over-large-data-sets)
 - [A better way to structure D3 code (updated with ES6 and D3 v4)](http://ejb.github.io/2017/08/09/a-better-way-to-structure-d3-code-es6-version.html)
+- [Interactive JavaScript Diagrams in HTML](https://gojs.net/latest/index.html)
+- https://carto.com/
+- [Create dashboards using YAML/JSON files
+](https://kantord.github.io/just-dashboard/)
+- [Constraint-Based Layout in the Browser](https://ialab.it.monash.edu/webcola/)
+- [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
+- [Animal Heartbeats](http://www.everysecond.io/animal-heartbeats)
+- [Tube Heartbeat](http://tubeheartbeat.com/london/)
+- [Data Visualization @ Airbnb -- React.js Meetup April 12, 2018](https://pasteapp.com/p/MszqF8XXBP9)
+- [Powerful command line data transformations](https://www.getdbt.com/)
 
 ## Websites
 
@@ -112,6 +122,10 @@
 - http://users.stat.ufl.edu/~winner/datasets.html
 - https://github.com/r-spacex/SpaceX-API
 - https://opendata.cityofnewyork.us/
+
+## People
+
+- [Jason Davies - Freelance Data Visualisation](https://www.jasondavies.com/)
 
 ## Tools
 
