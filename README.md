@@ -133,6 +133,12 @@
 - http://users.stat.ufl.edu/~winner/datasets.html
 - https://github.com/r-spacex/SpaceX-API
 - https://opendata.cityofnewyork.us/
+- https://github.com/TheEconomist
+- https://github.com/fivethirtyeight/data
+
+### Lists
+
+- https://github.com/awesomedata/awesome-public-datasets
 
 ## People
 
