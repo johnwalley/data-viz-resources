@@ -148,6 +148,10 @@
 
 - http://visidata.org/
 
+## Historical
+
+- [Design secrets we can learn from historic visualizations](https://www.tableau.com/about/blog/2019/6/design-secrets-historic-visualization)
+
 ## Twitter
 
 - https://twitter.com/@tibbuttj
