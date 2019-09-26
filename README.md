@@ -104,6 +104,7 @@
 ### Lists
 
 - [Financial Times](https://www.ft.com/data-visualisation)
+- https://www.nytimes.com/column/whats-going-on-in-this-graph
 
 ## Websites
 
@@ -115,6 +116,10 @@
 - https://www.amazon.com/gp/product/0387245448?sa-no-redirect=1&pldnSite=1
 - https://www.packtpub.com/web-development/mastering-d3js
 - https://bleedingedgepress.com/our-books/developing-a-d3-js-edge/
+
+## Color
+
+- [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
 
 ## D3
 
