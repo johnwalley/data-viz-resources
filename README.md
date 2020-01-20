@@ -4,7 +4,7 @@
 
 - [Awesome dataviz](https://github.com/fasouto/awesome-dataviz)
 
-- (material Design - Data visualization 
+- [Material Design - Data visualization 
 ](https://material.io/design/communication/data-visualization.html)
 - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/) - The Data Visualisation Catalogue, helping you find the right data visualization method for your data
 - [Complex Diagrams](http://complexdiagrams.com/properties) - Properties and Best Uses of Visual Encodings
@@ -143,13 +143,17 @@
 - https://github.com/TheEconomist
 - https://github.com/fivethirtyeight/data
 
-### Lists
+## Lists
 
 - https://github.com/awesomedata/awesome-public-datasets
 
 ## People
 
 - [Jason Davies - Freelance Data Visualisation](https://www.jasondavies.com/)
+
+## Presentations
+
+- [A Pixar Twist on Presenting Data](https://www.slideshare.net/AmandaMakulec/a-pixar-twist-on-presenting-data)
 
 ## Tools
 
