@@ -4,6 +4,8 @@
 
 - [Awesome dataviz](https://github.com/fasouto/awesome-dataviz)
 
+- (material Design - Data visualization 
+](https://material.io/design/communication/data-visualization.html)
 - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/) - The Data Visualisation Catalogue, helping you find the right data visualization method for your data
 - [Complex Diagrams](http://complexdiagrams.com/properties) - Properties and Best Uses of Visual Encodings
 - [Visualization Lab](http://vis.berkeley.edu/papers/animated_transitions/) - Animated Transitions in Statistical Data Graphics
